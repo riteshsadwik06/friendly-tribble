@@ -6,8 +6,8 @@ on:
       - hugo  # Set a branch to deploy
   pull_request:
   workflow_dispatch:
-  schedule:
-    - cron: '24 3 * * *' # Run everyday at 8:54 PM IST (3:24 PM UTC)
+#   schedule:
+#     - cron: '24 3 * * *' # Run everyday at 8:54 PM IST (3:24 PM UTC)
 
 jobs:
   build-and-publish:
