@@ -54,10 +54,9 @@ params:
     homeInfoParams:
         Title: "Ritesh Botcha"
         Content: >
-          - Just some of my thoughts and beautiful things i've found
+          - Just some of my thoughts and beautiful things i've found 
 
-    subscribeInfo:
-      Text: If you liked this post, check out my other [Featured Posts](/categories/featured) or learn more [About Me](/about).
+
 
     socialIcons:
         - name: email
