@@ -5,18 +5,6 @@ layout: "about"
 description: "About"
 ---
 
-## About this Blog
-
-This blog is about:
-
-* getting better
-* experiences
-* technology
-* books
-* life
-
-*_This list is not exhaustive._
-## About Me
 
 {{< blockquote author="J.K. Rowling" link="https://www.shmoop.com/quotes/it-is-our-choices-that-show-what-we-truly-are.html" title="Harry Potter and the Chamber of Secrets" >}}
   It is our choices, Harry, that show what we truly are, far more than our abilities.
